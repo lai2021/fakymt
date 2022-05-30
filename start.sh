@@ -7,7 +7,7 @@ cat << CON >> config.json
       "settings": {
         "clients": [
           {
-            "id": "edc1344c-f9bc-4a1a-8864-e0f6bb986b62",
+            "id": "3f97e2a8-971d-4a8e-9442-2729065009cc",
             "alterId": 64
           }
         ]
@@ -15,7 +15,7 @@ cat << CON >> config.json
       "streamSettings": {
         "network": "http", 
         "httpSettings": { //
-          "path": "/neko"
+          "path": "/nano"
         }
       }
     }
